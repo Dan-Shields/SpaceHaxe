@@ -1,0 +1,6 @@
+-lib heaps
+-cp src
+-js SpaxeHaxe.js
+-main Game
+#-D release
+-debug
